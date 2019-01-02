@@ -1,0 +1,8 @@
+D:\C#\LightCtrl\LightCtrl\bin\Release\LightCtrl.exe
+D:\C#\LightCtrl\LightCtrl\bin\Release\LightCtrl.pdb
+D:\C#\LightCtrl\LightCtrl\obj\Release\LightCtrl.Properties.Resources.resources
+D:\C#\LightCtrl\LightCtrl\obj\Release\LightCtrl.socket.resources
+D:\C#\LightCtrl\LightCtrl\obj\Release\LightCtrl.csproj.GenerateResource.cache
+D:\C#\LightCtrl\LightCtrl\obj\Release\LightCtrl.csproj.CoreCompileInputs.cache
+D:\C#\LightCtrl\LightCtrl\obj\Release\LightCtrl.exe
+D:\C#\LightCtrl\LightCtrl\obj\Release\LightCtrl.pdb

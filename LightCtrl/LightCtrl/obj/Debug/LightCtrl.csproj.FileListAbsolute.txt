@@ -1,0 +1,17 @@
+E:\VC\LightCtrl\LightCtrl\bin\Debug\LightCtrl.exe
+E:\VC\LightCtrl\LightCtrl\bin\Debug\LightCtrl.pdb
+E:\VC\LightCtrl\LightCtrl\obj\Debug\LightCtrl.csprojResolveAssemblyReference.cache
+E:\VC\LightCtrl\LightCtrl\obj\Debug\LightCtrl.Properties.Resources.resources
+E:\VC\LightCtrl\LightCtrl\obj\Debug\LightCtrl.socket.resources
+E:\VC\LightCtrl\LightCtrl\obj\Debug\LightCtrl.csproj.GenerateResource.Cache
+E:\VC\LightCtrl\LightCtrl\obj\Debug\LightCtrl.exe
+E:\VC\LightCtrl\LightCtrl\obj\Debug\LightCtrl.pdb
+D:\C#\LightCtrl\LightCtrl\bin\Debug\LightCtrl.exe
+D:\C#\LightCtrl\LightCtrl\bin\Debug\LightCtrl.pdb
+D:\C#\LightCtrl\LightCtrl\obj\Debug\LightCtrl.csprojAssemblyReference.cache
+D:\C#\LightCtrl\LightCtrl\obj\Debug\LightCtrl.Properties.Resources.resources
+D:\C#\LightCtrl\LightCtrl\obj\Debug\LightCtrl.socket.resources
+D:\C#\LightCtrl\LightCtrl\obj\Debug\LightCtrl.csproj.GenerateResource.cache
+D:\C#\LightCtrl\LightCtrl\obj\Debug\LightCtrl.csproj.CoreCompileInputs.cache
+D:\C#\LightCtrl\LightCtrl\obj\Debug\LightCtrl.exe
+D:\C#\LightCtrl\LightCtrl\obj\Debug\LightCtrl.pdb
